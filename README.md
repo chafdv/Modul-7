@@ -86,7 +86,7 @@ int main()
  ⁠
  
 Output
-⁠![Output guided](https://github.com/chafdv/Modul-6/blob/main/Output/guided6.png)
+⁠![Output guided](https://github.com/chafdv/Modul-7/blob/main/output/guidedm7.png)
 
 Program ini membuat **stack** dengan **struct dan pointer**. Fungsi push menambah data ke atas stack, pop menghapus data teratas, dan show menampilkan isi stack. Program menunjukkan prinsip LIFO (Last In, First Out), di mana data terakhir yang dimasukkan akan keluar terlebih dahulu.
 
@@ -126,7 +126,7 @@ void pushAscending(Stack &S, infotype x);
  ⁠
  ⁠
 Output
-	⁠![Output Soal 1](https://github.com/chafdv/Modul-6/blob/main/Output/maincpp1.png)
+	⁠![Output Soal 1](https://github.com/chafdv/Modul-7/blob/main/output/unguidedm7.png)
 
 Pada unguided 1 menunjukkan cara kerja dasar stack dengan operasi push dan pop. Data dimasukkan ke stack, beberapa dihapus, lalu ditampilkan hasil akhirnya sebelum dan sesudah dibalik.
 
@@ -194,7 +194,7 @@ void pushAscending(Stack &S, infotype x) {
  ⁠
 
 Output 
-	⁠![Output Soal 2](https://github.com/chafdv/Modul-6/blob/main/Output/maincpp2.png)
+	⁠![Output Soal 2](https://github.com/chafdv/Modul-7/blob/main/output/unguidedm7.png)
 
 Pada unguided 2 menambahkan data ke stack secara berurutan naik (ascending) menggunakan fungsi tambahan agar nilai selalu tersusun dari kecil ke besar, lalu hasilnya dibalik.
 
@@ -261,7 +261,7 @@ int main() {
  ⁠
  
 Output 
-	⁠![Output Soal 3](https://github.com/chafdv/Modul-6/blob/main/Output/maincpp3.png)
+	⁠![Output Soal 3]([https://github.com/chafdv/Modul-7/blob/main/output/unguidedm7.png)
 
 Pada unguided 3 menampilkan contoh stack dengan data tetap (tanpa inputan), kemudian dibalik urutannya untuk menunjukkan proses pembalikan isi stack secara otomatis.
 
