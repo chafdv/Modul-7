@@ -261,7 +261,7 @@ int main() {
  ⁠
  
 Output 
-	⁠![Output Soal 3]([https://github.com/chafdv/Modul-7/blob/main/output/unguidedm7.png)
+	⁠![Output Soal 3](https://github.com/chafdv/Modul-7/blob/main/output/unguidedm7.png)
 
 Pada unguided 3 menampilkan contoh stack dengan data tetap (tanpa inputan), kemudian dibalik urutannya untuk menunjukkan proses pembalikan isi stack secara otomatis.
 
